@@ -1,0 +1,36 @@
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+lichess 2013: 583,274 games
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+lichess 2014: 659,239 games
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+lichess 2015: 693,968 games
+lichess 2016: 738,468 games
+lichess 2017: 774,116 games
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+lichess 2018: 807,975 games
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+D:\Useful\Github Uploads\engine-monoculture\entropy.py:64: RuntimeWarning: invalid value encountered in scalar divide
+  s2 = (n * (n - 1)).sum() / (N * (N - 1))
+lichess 2019: 821,135 games
+lichess 2020: 847,258 games
+lichess 2021: 875,395 games
+lichess 2022: 881,349 games
+lichess 2023: 893,904 games
+lichess 2024: 904,532 games
+lichess 2025: 913,600 games
+lichess 2026: 681,399 games
+wrote 98,820 rows
+exit 0

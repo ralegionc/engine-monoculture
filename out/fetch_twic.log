@@ -1,0 +1,35 @@
+issue 925: 4,575 games, total 22,048
+issue 950: 1,896 games, total 97,213
+issue 975: 4,144 games, total 160,697
+issue 1000: 1,709 games, total 235,471
+issue 1025: 2,812 games, total 288,587
+issue 1050: 2,753 games, total 368,212
+issue 1075: 954 games, total 427,906
+issue 1100: 1,905 games, total 507,706
+issue 1125: 1,617 games, total 563,090
+issue 1150: 2,370 games, total 652,855
+issue 1175: 1,758 games, total 720,491
+issue 1200: 2,949 games, total 815,206
+issue 1225: 2,353 games, total 895,393
+issue 1250: 3,679 games, total 992,589
+issue 1275: 4,416 games, total 1,074,681
+issue 1300: 2,112 games, total 1,175,386
+issue 1325: 341 games, total 1,250,611
+issue 1350: 5,722 games, total 1,368,397
+issue 1375: 8,282 games, total 1,508,325
+issue 1400: 6,273 games, total 1,652,187
+issue 1425: 5,727 games, total 1,785,047
+issue 1450: 6,336 games, total 1,939,886
+issue 1475: 8,302 games, total 2,108,769
+issue 1500: 8,005 games, total 2,288,185
+issue 1525: 7,927 games, total 2,489,261
+issue 1550: 12,486 games, total 2,703,043
+issue 1575: 8,509 games, total 2,937,179
+issue 1600: 8,895 games, total 3,131,746
+issue 1625: 8,400 games, total 3,303,526
+issue 1650: 11,027 games, total 3,469,267
+issue 1666 missing
+issue 1667 missing
+issue 1668 missing
+dropped 24,138 duplicate games
+wrote 3,571,797 games from issues 920..1667 -> D:\Useful\Github Uploads\engine-monoculture\data\twic.parquet

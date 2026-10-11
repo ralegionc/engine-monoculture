@@ -1,0 +1,38 @@
+twic 2600+
+twic 2400-2599
+twic 2200-2399
+twic 2000-2199
+lichess blitz 1200-1499
+lichess blitz 1500-1799
+lichess blitz 1800-2099
+lichess blitz 2100-2399
+lichess blitz 2400+
+D:\Useful\Github Uploads\engine-monoculture\robustness.py:47: RuntimeWarning: divide by zero encountered in log2
+  return -np.log2(match / pairs)
+C:\Python313\Lib\site-packages\numpy\lib\_function_base_impl.py:4671: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+lichess blitz <1200
+lichess bullet 1200-1499
+lichess bullet 1500-1799
+lichess bullet 1800-2099
+lichess bullet 2100-2399
+lichess bullet 2400+
+D:\Useful\Github Uploads\engine-monoculture\robustness.py:47: RuntimeWarning: divide by zero encountered in log2
+  return -np.log2(match / pairs)
+lichess bullet <1200
+lichess rapid 1200-1499
+lichess rapid 1500-1799
+lichess rapid 1800-2099
+lichess rapid 2100-2399
+D:\Useful\Github Uploads\engine-monoculture\robustness.py:47: RuntimeWarning: divide by zero encountered in log2
+  return -np.log2(match / pairs)
+C:\Python313\Lib\site-packages\numpy\lib\_function_base_impl.py:4671: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+lichess rapid 2400+
+D:\Useful\Github Uploads\engine-monoculture\robustness.py:47: RuntimeWarning: divide by zero encountered in log2
+  return -np.log2(match / pairs)
+C:\Python313\Lib\site-packages\numpy\lib\_function_base_impl.py:4671: RuntimeWarning: invalid value encountered in subtract
+  diff_b_a = subtract(b, a)
+lichess rapid <1200
+wrote era.csv, fixed_events.csv (550 recurring event names)
+exit 0
