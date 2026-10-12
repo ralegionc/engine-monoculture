@@ -196,5 +196,7 @@ and since 2024 elite diversity has drifted back up, so the gap is not growing.
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 - The Week in Chess, Mark Crowther, theweekinchess.com, issues 920-1665.
 - Lichess open database, database.lichess.org, standard rated games 2013-01 to 2026-09 (CC0).
